@@ -1,7 +1,7 @@
 import java.text.NumberFormat;
 import java.util.Scanner;
 
-public class morrgageCalculator {
+public class mortgageCalculator {
     public static void main(String[] args) {
         // Se declaran dos variables constantes: "MONTHS_IN_YEAR" y "PERCENT".
         // Estas variables se utilizan para realizar cálculos en el programa.
