@@ -1,5 +1,3 @@
-package fizzBuzz;
-
 public class fizzBuzz {
 
     public static String[] calculateFizzBuzz(int n) {
